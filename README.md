@@ -4,8 +4,6 @@
 
 **Self-taught developer focused on programming best practices, agentic workflows, and e2e product management.**
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=The+New+Full+Stack!!!)](https://git.io/typing-svg)
-
 </div>
 
 ---

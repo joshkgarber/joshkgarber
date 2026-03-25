@@ -2,7 +2,7 @@
 
 # Hi there, I'm **JKG** 👋
 
-**Self-taught developer focused on programming best practices, agentic workflows, and e2e product management.**
+**Self-taught developer focused on programming best practices, agentic workflows, and e2e project management.**
 
 </div>
 
